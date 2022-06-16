@@ -8,3 +8,4 @@ src klasöründe bir pages, components  ve assets  oluşturuldu.
 -search kısmında kullanmak için MUI'den search iconunu import ettim.
 -Enterprise butonu için MUI'den button import ettim
 -letter ve down ikonu için MUI'den ilgili iconlar import edildi.
+-components klasörü içideki style klasöründe oluşturulan header.css dosyasında Header.jsx stillerini yazdım.

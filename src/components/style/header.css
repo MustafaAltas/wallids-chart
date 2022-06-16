@@ -1,10 +1,74 @@
+.header{
+  box-shadow: 0 4px 2px -2px gray;
+  box-shadow: rgb(185, 230, 246) 0px 7px 29px -2px;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
 .header-right {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
 }
 .header-right-profile {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
+  gap: 0.7rem;
+}
+.header-right-icon{
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgb(185, 230, 246) 0px 7px 10px 0px;
+}
+.header-right-profile-info h5{
+  padding: 0;
+  margin: 0;
+}
+.header-right-profile-info p{
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 100;
+}
+
+.navbar-left{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.navbar-left-div{
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.navbar-left-div h5{
+  font-weight: 400;
+}
+
+.letf-1{
+  color: blue;
+  
+}
+.letf-1 h5{
+  font-weight: 700;
+}
+
+.navbar-right{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: auto;
+}
+
+.navbar-right-div{
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
 }
