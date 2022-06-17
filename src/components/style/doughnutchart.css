@@ -1,0 +1,32 @@
+.doughnut-cart{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    box-shadow: rgb(185, 230, 246) 0px 7px 10px 0px;
+    padding: 1rem;
+}
+.doughnut-cart-first-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+.doughnut-cart-first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.doughnut-cart-last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.doughnut-cart-last-prim{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
