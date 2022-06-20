@@ -13,3 +13,4 @@ src klasöründe bir pages, components  ve assets  oluşturuldu.
 -doughnutchart.css klasörü içersinde DoughnutChart.jsx dosyasının stilleri bulunmaktadır.
 -PR , secure ve insecure iconları için react icon'u install ettim.
 -src klasöründe helper isimli klasör açtım ve içine contains dosyası içerisinde tabloda kullanacağım verileri ekledim.
+-components klasöründe VerticalBar componenti oluşturuldu. ve Dashboard'a import edildi.
